@@ -5,7 +5,7 @@
 
 int main(int argc, char *argv[])
 {
-	printf("The LAST four letters of the alphabet:\n");
+	printf("The FIRST four letters of the alphabet:\n");
 	print_A();
 	print_B();
 	print_C();
